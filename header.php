@@ -93,9 +93,8 @@
                         <li class="active"><a href="index.php" class="active">Tüm Sanal Alanlar</a></li>
                         <li><a href="#" data-toggle="modal" data-target="#SanalAlanEkle">Sanal Alan Ekle</a></li>
                     </ul>
-                    <p class="navbar-text navbar-right">Programlayan: <a href="http://www.skyweboffice.com"
-                                                                         class="navbar-link">Skyweboffice | Süleyman
-                            DENİZHAN</a></p>
+                    <p class="navbar-text navbar-right">Programlayan:
+                        <a href="http://www.suleymandenizhan.com.tr" class="navbar-link">Süleyman DENİZHAN</a></p>
                 </div>
             </nav>
         </div>
